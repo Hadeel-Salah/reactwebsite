@@ -1,5 +1,4 @@
 import React from 'react';
-import './search.css';
 
 const Search = props => (
   <div className="md-form active-purple-2 mb-3">
